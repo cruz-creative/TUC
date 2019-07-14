@@ -1638,7 +1638,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rvmHx4gB8h .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rvmHx4gB8h .collapsed button.navbar-toggler {
@@ -1791,9 +1791,6 @@ body {
 .cid-rvmHx4gB8h .nav-link:hover,
 .cid-rvmHx4gB8h .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-rvmiBxltEb {
-  background-image: url("../../../assets/images/mbr-1920x1260.jpg");
 }
 .cid-rvmiBxltEb .mbr-media span {
   font-size: 48px;
